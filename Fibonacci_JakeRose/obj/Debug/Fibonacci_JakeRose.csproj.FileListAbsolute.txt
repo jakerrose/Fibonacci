@@ -1,0 +1,7 @@
+C:\Users\rosej\OneDrive\Documents\GitHub\Fibonacci_JakeRose\Fibonacci_JakeRose\bin\Debug\Fibonacci_JakeRose.exe.config
+C:\Users\rosej\OneDrive\Documents\GitHub\Fibonacci_JakeRose\Fibonacci_JakeRose\bin\Debug\Fibonacci_JakeRose.exe
+C:\Users\rosej\OneDrive\Documents\GitHub\Fibonacci_JakeRose\Fibonacci_JakeRose\bin\Debug\Fibonacci_JakeRose.pdb
+C:\Users\rosej\OneDrive\Documents\GitHub\Fibonacci_JakeRose\Fibonacci_JakeRose\obj\Debug\Fibonacci_JakeRose.csproj.AssemblyReference.cache
+C:\Users\rosej\OneDrive\Documents\GitHub\Fibonacci_JakeRose\Fibonacci_JakeRose\obj\Debug\Fibonacci_JakeRose.csproj.CoreCompileInputs.cache
+C:\Users\rosej\OneDrive\Documents\GitHub\Fibonacci_JakeRose\Fibonacci_JakeRose\obj\Debug\Fibonacci_JakeRose.exe
+C:\Users\rosej\OneDrive\Documents\GitHub\Fibonacci_JakeRose\Fibonacci_JakeRose\obj\Debug\Fibonacci_JakeRose.pdb
