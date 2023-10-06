@@ -17,7 +17,7 @@ namespace Fibonacci_JakeRose
                 Console.WriteLine("Please write the sequence number for the Fibonacci number you would like to see and press enter.");
                 //takes user input, converts to int datatype
                 long sequenceNum = Convert.ToInt64(Console.ReadLine());
-                //uses formula to calculate Fibonacci numbers using golden ratio, rounded to 1.618, converts to double type variable fibNum
+                //uses formula to calculate Fibonacci numbers using a close approximation of the golden ratio, converts to double type variable fibNum
                 double fibNum = ( (Math.Pow (1.618033988749, sequenceNum)) - (Math.Pow (.618033988749, sequenceNum))) / (Math.Sqrt(5));
                 //Takes fibNum and rounds up to nearest integer, converts to int datatype
                 long roundedNum = Convert.ToInt64(Math.Ceiling(fibNum));
